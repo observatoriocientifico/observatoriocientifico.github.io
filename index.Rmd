@@ -9,7 +9,7 @@ output:
     smooth_scroll: true
 ---
 
-Como investigadores y docentes de distintos establecimientos de educación superior (Universidad de Concepción, Universidad de la Serena, Universidad Adventista), estamos comprometidos y alineados con los procesos de desarrollo y de descentralización en la región y el país, buscando con interés el desarrollo libre de los individuos, en especial de la comunidad liceana, donde profesores y estudiantes elaboran parte del fundamento de nuestra sociedad. A la vez que construimos acciones preventivas frente a los problemas ambientales y sociales que estamos enfrentando.
+El observatorio Cientifico Escolar es una iniciativa de docentes de distintos establecimientos de educación superior (Universidad de Concepción, Universidad de la Serena, Universidad Adventista), estamos comprometidos y alineados con los procesos de desarrollo y de descentralización en la región y el país, buscando con interés el desarrollo libre de los individuos, en especial de la comunidad liceana, donde profesores y estudiantes elaboran parte del fundamento de nuestra sociedad. A la vez que construimos acciones preventivas frente a los problemas ambientales y sociales que estamos enfrentando.
 Por lo anterior. Es nuestro deseo cooperar con la trasferencia tecnológica a través de la capacitación de los docentes y la formación académica de calidad de nuestros jóvenes en distintas regiones del país.
 
 |UdeC|ULS|UnACh|
