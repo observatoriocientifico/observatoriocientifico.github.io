@@ -1,0 +1,15 @@
+name: "OCRE"
+output_dir: "."
+navbar:
+  title: "OCRE"
+  left:
+    - text: "Presentación"
+      href: index.html
+    - text: "Comunidad"
+      href: comunidad.html
+    - text: "Congresos"
+      href: congresos.html
+    - text: "Contacto"
+      href: contacto.html
+    - text: "About"
+      href: about.html

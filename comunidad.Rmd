@@ -1,0 +1,13 @@
+---
+title: "OCRE"
+author: "Observatorio Científico Regional Estudiantil"
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float: true
+    smooth_scroll: true
+---
+
+# En construcción
+

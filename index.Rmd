@@ -1,0 +1,30 @@
+---
+title: "OCRE"
+author: "Observatorio Científico Regional Estudiantil"
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float: true
+    smooth_scroll: true
+---
+
+Como investigadores y docentes de distintos establecimientos de educación superior (Universidad de Concepción, Universidad de la Serena, Universidad Adventista), estamos comprometidos y alineados con los procesos de desarrollo y de descentralización en la región y el país, buscando con interés el desarrollo libre de los individuos, en especial de la comunidad liceana, donde profesores y estudiantes elaboran parte del fundamento de nuestra sociedad. A la vez que construimos acciones preventivas frente a los problemas ambientales y sociales que estamos enfrentando.
+Por lo anterior. Es nuestro deseo cooperar con la trasferencia tecnológica a través de la capacitación de los docentes y la formación académica de calidad de nuestros jóvenes en distintas regiones del país.
+
+|UdeC|ULS|UnACh|
+|---|---|---|
+|![](image/udec-150.png)|![](image/uls-150.png)|![](image/unach-150.png)|
+
+# Misión
+Fomentar la investigación aplicada en centros de educación secundaria mediante la implementación de una red de medición multiparamétrica distribuida a lo largo del país. 
+
+# Fundamentación
+Los problemas sociales y ambientales están causando impactos negativos nunca antes vistos. En la década de los 80 se vio la necesidad de armonizar el crecimiento económico, el bienestar social y la protección del medio ambiente. Hoy los desastres naturales por el cambio climático, la preocupación por las altas tasas de contaminación que vulneran la
+integridad de la biosfera, el problema de la gestión sostenible de los recursos naturales que han producido el cambio del sistema terrestre y los flujos bioquímicos alterados son fenómenos emergentes del sistema eco social diseñado.
+En este contexto la sociedad requiere de acciones preventivas basadas en el entendimiento para enfrentar futuros eventos, debido al ejercicio de los agentes internos y externos que contribuyen a la compleja relación conservación-desarrollo, que puedan poner en riesgo la vida, la salud, y el equilibrio del medio, lo que se conoce como Gestión de Riesgos (Campos Vargas, Aparicio, & Alanis, 2015). El método y la infraestructura científica juega un rol
+principal en descubrimiento de las relaciones desencadenantes de los eventos de riesgo para dar alerta sobre los desafíos futuros. Esto requiere investigación de los complejos y evolutivos vínculos entre los ecosistemas y la sociedad para su comprensión y formulación de soluciones mitigantes diseñadas con enfoques integrados (Fischer et al., 2015).
+
+La educación es el instrumento necesario para preparar a los ciudadanos, de modo que estos logren ser agentes activos y puedan integrarse en la sociedad para el bien común. Hoy la sociedad requiere la transferencia de habilidades de la ciencia y el desarrollo del aprendizaje profundo, para contribuir a los aprendizajes postulados para el siglo xxi
+(conocer, hacer, a convivir, ser) («La educación encierra un tesoro», 2002). La cooperación institucional universitaria y secundaria puede permitir el marco necesario para establecer ciudadanos activos con conocimiento de su ecosistema y comprometidos con aportar parte de la solución, paralelamente les permite crecer integralmente a la vez que mediante los nuevos mecanismos de interacción social donde comparten una experiencia autentica de aprendizaje en contextos reales. Esto desafía a los componentes colaborativos a enfrentar problemas comunes del medio a la vez que potencia el trabajo colaborativo, el pensamiento crítico, la comunicación y la responsabilidad social colocando el camino de trabajo conjunto y enfocado en la solución de problemas reales para el beneficio común. De esta forma las técnicas del método científico pueden ser extrapoladas y utilizadas por la ciudadanía.
+
