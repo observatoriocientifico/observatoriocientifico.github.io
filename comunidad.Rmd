@@ -22,14 +22,26 @@ El observatorio Cientifico Escolar es una iniciativa de docentes de distintos es
 |![](image/pablo-150.png)|**Dr. Pablo Muñoz**, Facultad de Ciencias. Departamento de Física y Astronomía, Universidad de la Serena|![](image/luis-150.png)|**Mg. Luis Tamblay V.**, Facultad de Ciencias. Departamento de Física y Astronomía, Universidad de la Serena|
 |![](image/carlos-150.png)|**Mg. Carlos Villalobos**, Facultad de Educación. Universidad Adventista de Chile|![](image/jesus-150.png)|**Dr. Jesús Piña**, Escuela de Ciencias y Tecnologías. Departamento de Ciencias Geodésicas y Geomática. Universidad de Concepción Campus Los Ángeles|
 
+Docentes de tres Universidades
+
+|UdeC|ULS|UnACh|
+|---|---|---|
+|![](image/udec-150.png)|![](image/uls-150.png)|![](image/unach-150.png)|
+
+
 # Modelo de colaboración
 
 
 # OCRE - Observatorio Científico
+
 ## Meteorología
+
 ## Gravedad
+
 ## Ionosfera
+
 ## Sismicidad
+
 
 
 

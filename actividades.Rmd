@@ -10,9 +10,15 @@ output:
 ---
 
 # Talleres
+
 ## 20210419 "Instrumentación Meteorológica y Sistemas de Observación"
+
 ## 20210426 "Meteorología Central de Chile"
+
 # Concursos
+
 ## Concurso sobre aplicaciones de datos de estaciones meteorológicas para enfrentar desafíos locales
+
 # Congresos
+
 ## Primer Congreso Nacional de la RED de Observación Científica OCRE

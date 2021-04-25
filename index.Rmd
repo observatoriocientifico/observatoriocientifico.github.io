@@ -12,9 +12,6 @@ output:
 # Visión
 Es nuestro deseo cooperar con la trasferencia tecnológica a través de la capacitación de los docentes y la formación académica de calidad de nuestros jóvenes en distintas regiones del país y formar redes que den soluciones a los problemas emergentes.
 
-|UdeC|ULS|UnACh|
-|---|---|---|
-|![](image/udec-150.png)|![](image/uls-150.png)|![](image/unach-150.png)|
 
 # Misión
 Fomentar la investigación aplicada en centros de educación secundaria mediante la implementación de una red de medición multiparamétrica distribuida a lo largo del país. 
