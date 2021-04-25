@@ -25,7 +25,7 @@ El observatorio Cientifico Escolar es una iniciativa de docentes de distintos es
 # Modelo de colaboración
 
 
-# OCRE - Observatorio Científico Regional Escolar
+# OCRE - Observatorio Científico
 ## Meteorología
 ## Gravedad
 ## Ionosfera
