@@ -3,13 +3,13 @@ output_dir: "."
 navbar:
   title: "OCRE"
   left:
-    - text: "Presentación"
+    - text: "HOME"
       href: index.html
-    - text: "Comunidad"
+    - text: "Comunidad en Red"
       href: comunidad.html
-    - text: "Congresos"
-      href: congresos.html
+    - text: "Actividades"
+      href: actividades.html
+    - text: "Noticias"
+      href: noticias.html
     - text: "Contacto"
       href: contacto.html
-    - text: "About"
-      href: about.html

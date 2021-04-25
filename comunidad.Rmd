@@ -9,7 +9,27 @@ output:
     smooth_scroll: true
 ---
 
-# En construcción
-En construcción
+# Quienes somos
+
+El observatorio Cientifico Escolar es una iniciativa de docentes de distintos establecimientos de educación superior (Universidad de Concepción, Universidad de la Serena, Universidad Adventista), que estamos comprometidos y alineados con los procesos de desarrollo y de descentralización en la región y el país, buscando con interés el desarrollo libre de los individuos, en especial de la comunidad liceana, donde profesores y estudiantes elaboran parte del fundamento de nuestra sociedad. A la vez que construimos acciones preventivas frente a los problemas ambientales y sociales que estamos enfrentando los desafíos en red.
+
+# Equipo
+
+|Equipo|
+|---|---|---|---|
+|![](image/elias-150.png)|**Dr. Elías Ovalle M.** (IP), Facultad  de Ciencias Físicas y Matemáticas. Departamento de Geofísica. Universidad de Concepción Campus Concepción|![](image/gustavo-150.png)|**M.Sc. Gustavo Godoy U.**, Escuela de Ciencias y Tecnologías. Departamento de Ciencias Geodésicas y Geomática. Universidad de Concepción Campus Los Ángeles|
+|![](image/victor-150.png)|**MSc. Victor Villagrán O.**, Facultad  de Ciencias Físicas y Matemáticas. Departamento de Geofísica. Universidad de Concepción Campus Concepción|![](image/juan-150.png)|**Dr. Juan Inzunza B.**, Facultad  de Ciencias Físicas y Matemáticas. Departamento de Geofísica. Universidad de Concepción Campus Concepción|
+|![](image/pablo-150.png)|**Dr. Pablo Muñoz**, Facultad de Ciencias. Departamento de Física y Astronomía, Universidad de la Serena|![](image/luis-150.png)|**Mg. Luis Tamblay V.**, Facultad de Ciencias. Departamento de Física y Astronomía, Universidad de la Serena|
+|![](image/carlos-150.png)|**Mg. Carlos Villalobos**, Facultad de Educación. Universidad Adventista de Chile|![](image/jesus-150.png)|**Dr. Jesús Piña**, Escuela de Ciencias y Tecnologías. Departamento de Ciencias Geodésicas y Geomática. Universidad de Concepción Campus Los Ángeles|
+
+# Modelo de colaboración
+
+
+# OCRE - Observatorio Científico Regional Escolar
+## Meteorología
+## Gravedad
+## Ionosfera
+## Sismicidad
+
 
 

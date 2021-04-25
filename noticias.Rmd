@@ -1,0 +1,22 @@
+---
+title: "OCRE"
+author: "Observatorio Científico Regional Estudiantil"
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float: true
+    smooth_scroll: true
+---
+
+# 20200117 Primer Liceo de Chile que compra e instala estación metereológica para su uso en las actividades de enseñanza
+
+# 20210420 Primer Liceo de la comuna de Los Angeles que se adhiere a la la red OCRE
+
+	
+
+	                       
+
+	
+
+	
