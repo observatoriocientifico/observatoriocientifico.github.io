@@ -12,13 +12,17 @@ output:
 # Talleres
 
 ## 20210419 "Instrumentación Meteorológica y Sistemas de Observación"
+Puede revisar la grabación en https://youtu.be/qq9AA4TTbOk
 
 ## 20210426 "Meteorología Central de Chile"
+Puede revisar la grabación en https://youtu.be/gNiNZG-uZRM
 
 # Concursos
 
 ## Concurso sobre aplicaciones de datos de estaciones meteorológicas para enfrentar desafíos locales
+Próximamente
 
 # Congresos
 
 ## Primer Congreso Nacional de la RED de Observación Científica OCRE
+Próximamente
