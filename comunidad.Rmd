@@ -11,7 +11,7 @@ output:
 
 # Quienes somos
 
-El observatorio Cientifico Escolar es una iniciativa de docentes de distintos establecimientos de educación superior (Universidad de Concepción, Universidad de la Serena, Universidad Adventista), que estamos comprometidos y alineados con los procesos de desarrollo y de descentralización en la región y el país, buscando con interés el desarrollo libre de los individuos, en especial de la comunidad liceana, donde profesores y estudiantes elaboran parte del fundamento de nuestra sociedad. A la vez que construimos acciones preventivas frente a los problemas ambientales y sociales que estamos enfrentando los desafíos en red.
+El observatorio Cientifico Escolar es una iniciativa de docentes de distintos establecimientos de educación superior (Universidad de Concepción, Universidad de la Serena, Universidad Adventista actualmente [28-04-2021]), que estamos comprometidos y alineados con los procesos de desarrollo y de descentralización en la región y el país, buscando con interés el desarrollo libre de los individuos, en especial de la comunidad liceana, donde profesores y estudiantes elaboran parte del fundamento de nuestra sociedad. A la vez que construimos acciones preventivas frente a los problemas ambientales y sociales que estamos enfrentando los desafíos en red.
 
 # Equipo
 
@@ -31,18 +31,21 @@ Docentes de tres Universidades
 
 # Modelo de colaboración
 
+## Liceos Adheridos
 
-# OCRE - Observatorio Científico
+1. 20190418 Liceo Padre Luis Saldes Irarrazabal, Yumbel.
+2. 20210311 Colegio Adventista de Chile, Chillán.
+3. 20210420 Liceo Bicentenario, Los Ángeles.
 
-## Meteorología
+## Universidades
 
-# Próximamente
+1. Universidad de Concepción (UdeC)
+2. Universidad de la Serena (ULS)
+3. Universidad de Adventista de Chile (UnACh)
 
-## Gravedad
 
-## Ionosfera
 
-## Sismicidad
+
 
 
 
