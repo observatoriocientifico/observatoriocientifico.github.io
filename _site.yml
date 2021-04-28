@@ -1,9 +1,7 @@
-name: "OCRE"
 output_dir: "."
 navbar:
-  title: "OCRE"
   left:
-    - text: "HOME"
+    - text: "OCRE"
       href: index.html
     - text: "Comunidad en Red"
       href: comunidad.html
@@ -11,5 +9,7 @@ navbar:
       href: actividades.html
     - text: "Noticias"
       href: noticias.html
+    - text: "Datos"
+      href: data.html
     - text: "Contacto"
       href: contacto.html
