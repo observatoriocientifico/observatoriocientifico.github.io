@@ -9,16 +9,20 @@ output:
     smooth_scroll: true
 ---
 
-# 20200117 Primer Liceo de Chile que compra e instala estación metereológica para su uso en las actividades de enseñanza
+## 20200117 Primer Liceo de Chile que compra e instala estación metereológica para su uso en las actividades de enseñanza
 Descripción próximamente
 
-# 20210420 Primer Liceo de la comuna de Los Angeles que se adhiere a la la red OCRE
+## 20210420 Primer Liceo de la comuna de Los Angeles que se adhiere a la la red OCRE
 
 ![](image/WhatsApp Image 2021-04-20 at 13.13.00.jpeg)
 
 La entrevista queda regitsrada por radio Biobio. Puede ver el reportaje en  https://www.facebook.com/10383924671/posts/10160241711714672/?sfnsn=mo
 
-	
+## 20210427 Miembros del OCRE sostienen reunión con Representantes de Fundaciones de Colegios Adventistas a nivel Nacional en busca de cooperación.
+
+![](image/20210427.png)
+
+
 
 	                       
 
