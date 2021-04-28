@@ -9,12 +9,12 @@ output:
     smooth_scroll: true
 ---
 
-# OCRE - Observatorio Científico
+
 Las líneas de desarrollo que actualmente se están trabajando con la comunidad OCRE son:
 
 - Meteorología
 
-# Próximamente
+Próximamente:
 
 - Gravedad
 - Ionosfera
