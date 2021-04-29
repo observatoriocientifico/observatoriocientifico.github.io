@@ -23,9 +23,9 @@ Próximamente:
 # Talleres
 
 - 20210419 "Instrumentación Meteorológica y Sistemas de Observación"
-Puede revisar la grabación en https://youtu.be/qq9AA4TTbOk
+Puede revisar la grabación en https://youtu.be/qq9AA4TTbOk  [pdf](diapositiva/20210419-VV-Instrumental.pdf)
 - 20210426 "Meteorología Central de Chile"
-Puede revisar la grabación en https://youtu.be/gNiNZG-uZRM
+Puede revisar la grabación en https://youtu.be/gNiNZG-uZRM  [pdf](diapositiva/20210426-JCI-Meteorologia.pdf)
 
 # Concursos
 
