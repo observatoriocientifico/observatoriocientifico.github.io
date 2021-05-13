@@ -9,23 +9,25 @@ output:
     smooth_scroll: true
 ---
 
-##  20190418 Primera adhesión de Liceo de Yumbel al proyecto OCRE
-Primer Liceo en la región y el paìs que se adhiere a la iniciativa OCRE que compra e instala estación metereológica para su uso en las actividades de enseñanza. Descripción próximamente.
+## 20210513 Liceo Bicentenario técnico de Rancagua sostiene reunión con Prof. Gustavo Godoy 
+En la reunión el Profesor Gustavo Godoy del Departamento de Ciencias Geodésicas y Geomática explica el proyecto, alcance y proyecciones del proyecto OCRE al equipo de ciencias del liceo Bicentenario técnico de Rancagua. El profesor Marcelo Maureira manifiesta el interés de participar en la iniciativa con el fin de generar una colaboración, como uno de las alianzas estratégicas de la institución de educación.
+
+![](image/WhatsApp Image 2021-05-13 at 16.08.00.jpeg)
+
+## 20210504 Liceo Polivalente se adhiere a la iniciativa de Observación Científica 
+## 20210428 Reunión con directivos y profesores del Liceo Polivalente de Puerto Seco 
+Reunión con Director Comunal, Director y Profesores Liceo Polivalente Puerto Seco, Región de Ñuble.
+
+![](image/20210428-SanIgnacio.png)
 
 
-## 20210311 Adhesión del Colegio Adventista de Chile, Chillán.
-Liceo Adventista se adhiere como primer liceo en la región de Ñuble.
+## 20210427 Reunión con representantes de colegios adventistas a nivel nacional 
+Miembros del OCRE sostienen reunión con Representantes de Fundaciones de Colegios Adventistas a nivel Nacional en busca de cooperación.
+
+![](image/20210427.png)
 
 
-## 20210420 Adhesión del primer Liceo de la comuna de Los Ángeles
-Primer Liceo de la comuna de Los Angeles que se adhiere a la la red OCRE.
-
-![](image/WhatsApp Image 2021-04-20 at 13.13.00.jpeg)
-
-La entrevista queda regitsrada por radio Biobio. Puede ver el reportaje en  https://www.facebook.com/10383924671/posts/10160241711714672/?sfnsn=mo
-
-
-## 20210423 Académicos UdeC impulsan proyecto de Observatorio Científico Escolar
+## 20210423 Académicos UdeC impulsan proyecto de Observatorio Científico Escolar 
 Durante el mes de abril, el Proyecto de investigación, “Creación de un Observatorio Estudiantil Regional”, financiado por el Proyecto UCO 1895: Centro de Estudios e Investigación en Educación Superior (CEIES), se encuentra realizando una serie de actividades para dar a conocer la importancia de la generación de acciones de divulgación científica sobre la temática.
 
 El equipo de trabajo está liderado por el docente de la Facultad de Ciencias Físicas y Matemáticas, Dr. Elías Ovalle Miranda y compuesto por MSc. Gustavo Godoy Uribe, Mg. Víctor Villagran Orellana y el Dr. Juan Insunza Bustos, quienes con su propuesta buscan impulsar la colaboración entre investigadores universitarios, profesores de ciencias, estudiantes de secundaria y universitarios, mediante una red de monitoreo físico, denominado Observatorio Científico Regional Escolar (OCRE).
@@ -33,24 +35,24 @@ El equipo de trabajo está liderado por el docente de la Facultad de Ciencias F�
 http://educacion.udec.cl/academicos-udec-impulsan-proyecto-de-observatorio-cientifico-escolar/
 
 
-## 20210427 Reunión con representantes de colegios adventistas a nivel nacional
-Miembros del OCRE sostienen reunión con Representantes de Fundaciones de Colegios Adventistas a nivel Nacional en busca de cooperación.
 
-![](image/20210427.png)
+## 20210420 Adhesión del primer Liceo de la comuna de Los Ángeles 
+Primer Liceo de la comuna de Los Angeles que se adhiere a la la red OCRE.
+
+![](image/WhatsApp Image 2021-04-20 at 13.13.00.jpeg)
+
+La entrevista queda regitsrada por radio Biobio. Puede ver el reportaje en  https://www.facebook.com/10383924671/posts/10160241711714672/?sfnsn=mo
 
 
-## 20210428 Reunión con directivos y profesores del Liceo Polivalente de Puerto Seco
-Reunión con Director Comunal, Director y Profesores Liceo Polivalente Puerto Seco, Región de Ñuble.
 
-![](image/20210428-SanIgnacio.png)
+## 20210311 Adhesión del Colegio Adventista de Chile, Chillán 
+Liceo Adventista se adhiere como primer liceo en la región de Ñuble.
 
-## 20210504 Liceo Polivalente se adhiere a la iniciativa de Observación Científica.
+##  20190418 Primera adhesión de Liceo de Yumbel al proyecto OCRE 
+Primer Liceo en la región y el paìs que se adhiere a la iniciativa OCRE que compra e instala estación metereológica para su uso en las actividades de enseñanza. Descripción próximamente.
 
-## 20210513 Liceo Bicentenario técnico de Rancagua sostiene reunión con Prof. Gustavo Godoy
-En la reunión el Profesor Gustavo Godoy del Departamento de Ciencias Geodésicas y Geomática explica el proyecto, alcance y proyecciones del proyecto OCRE al equipo de ciencias del liceo Bicentenario técnico de Rancagua. El profesor Marcelo Maureira manifiesta el interés de participar en la iniciativa con el fin de generar una colaboración, como uno de las alianzas estratégicas de la institución de educación.
 
-![](image/WhatsApp Image 2021-05-13 at 16.08.00.jpeg)     
 
-	
 
-	
+
+
