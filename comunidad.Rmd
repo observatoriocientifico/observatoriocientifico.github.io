@@ -39,6 +39,7 @@ Docentes de tres Universidades
 4. 20210504 Liceo Polivalente Pueblo Seco, San Ignacio.
 5. 20210513 Colegio Adventista de Talcahuano.
 6. 20210517 Colegio Adventista de Lota.
+7. 20210519 Colegio Adventista La Serena. 
 
 ## Universidades
 
