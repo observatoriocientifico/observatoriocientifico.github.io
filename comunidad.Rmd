@@ -33,14 +33,16 @@ Docentes de tres Universidades
 
 ## Liceos Adheridos
 
-1. 20190418 Liceo Padre Luis Saldes Irarrazabal, Yumbel. (EM-1)
-2. 20210311 Colegio Adventista de Chile, Chillán.(EM-0)
-3. 20210420 Liceo Bicentenario, Los Ángeles.(EM-1)
-4. 20210504 Liceo Polivalente Pueblo Seco, San Ignacio.(EM-0)
-5. 20210512 Colegio Adventista de Copiapó. (EM-0)
-6. 20210513 Colegio Adventista de Talcahuano.(EM-0)
-7. 20210517 Colegio Adventista de Lota. (EM-0)
-8. 20210519 Colegio Adventista La Serena. (EM-0)
+|N|Fecha de Adhesión|Nombre Institución|Localidad|Estado EM|Tutor OCRE|
+|---|---|---|---|---|---|
+|1|20190418|Liceo Padre Luis Saldes Irarrazabal|Yumbel| Funcionando| Elias Ovalle|
+|2|20210311|Colegio Adventista de Chile|Chillán| Instalación| Carlos Villalobos|
+|3|20210420|Liceo Bicentenario Los Ángeles|Los Ángeles|Funcionando|Gustavo Godoy|
+|4|20210504|Liceo Polivalente Pueblo Seco|San Ignacio|Instalación|Jesús Piña|
+|5|20210512|Colegio Adventista de Copiapó|Copiapó|Instalación|Luis Tamblay|
+|6|20210513|Colegio Adventista de Talcahuano|Talcahuano|Instalación|Juan inzunza|
+|7|20210517|Colegio Adventista de Lota|Lota| Instalación| Carlos Villalobos|
+|8|20210519|Colegio Adventista La Serena|La Serena|Instalación|Pablo Muñoz|
 
 ## Universidades
 
