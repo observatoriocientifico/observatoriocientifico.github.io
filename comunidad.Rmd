@@ -37,9 +37,10 @@ Docentes de tres Universidades
 2. 20210311 Colegio Adventista de Chile, Chillán.
 3. 20210420 Liceo Bicentenario, Los Ángeles.
 4. 20210504 Liceo Polivalente Pueblo Seco, San Ignacio.
-5. 20210513 Colegio Adventista de Talcahuano.
-6. 20210517 Colegio Adventista de Lota.
-7. 20210519 Colegio Adventista La Serena. 
+5. 20210512 Colegio Adventista de Copiapó20210513 
+6. Colegio Adventista de Talcahuano.
+7. 20210517 Colegio Adventista de Lota.
+8. 20210519 Colegio Adventista La Serena. 
 
 ## Universidades
 
