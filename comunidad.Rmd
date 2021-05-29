@@ -43,7 +43,8 @@ Docentes de tres Universidades
 |6|20210513|Colegio Adventista de Talcahuano|Talcahuano|Instalación|Juan inzunza|
 |7|20210517|Colegio Adventista de Lota|Lota| Instalación| Carlos Villalobos|
 |8|20210519|Colegio Adventista La Serena|La Serena|Instalación|Pablo Muñoz|
-|9|---|---|---|---|---|
+|9|20210528|Liceo Bicentenario Técnico de Rancagua|Rancagua|Instalación|Gustavo Godoy|
+|10|---|---|---|---|---|
 
 ## Universidades
 
