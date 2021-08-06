@@ -1,9 +1,6 @@
----
-title: "OCRE"
-author: "Observatorio Científico Regional Estudiantil"
----
 
 ![](image/ocre.png)
+
 
 # Descripción
 Los problemas sociales y ambientales están causando impactos negativos nunca antes vistos. En la década de los 80 se vio la necesidad de armonizar el crecimiento económico, el bienestar social y la protección del medio ambiente. Lo que desde el 2015 promueven las Naciones Unidas a través de los Objetivos de Desarrollo Sostenibles (ODS). Hoy los desastres naturales por el cambio climático, la preocupación por las altas tasas de contaminación que vulneran la
