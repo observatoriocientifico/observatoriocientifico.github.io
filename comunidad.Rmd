@@ -13,6 +13,12 @@ output:
 
 El observatorio Cientifico Escolar es una iniciativa de docentes de distintos establecimientos de educación superior (Universidad de Concepción, Universidad de la Serena, Universidad Adventista actualmente [28-04-2021]), que estamos comprometidos y alineados con los procesos de desarrollo y de descentralización en la región y el país, buscando con interés el desarrollo libre de los individuos, en especial de la comunidad liceana, donde profesores y estudiantes elaboran parte del fundamento de nuestra sociedad. A la vez que construimos acciones preventivas frente a los problemas ambientales y sociales que estamos enfrentando los desafíos en red.
 
+# Visión
+Es nuestro deseo cooperar con la trasferencia tecnológica a través de la capacitación de los docentes y la formación académica de calidad de nuestros jóvenes en distintas regiones del país y formar redes que den soluciones a los problemas emergentes.
+
+# Misión
+Fomentar la investigación aplicada en centros de educación secundaria mediante la implementación de una red de medición multiparamétrica distribuida a lo largo del país. 
+
 # Equipo
 
 |Equipo|
@@ -29,7 +35,7 @@ Docentes de tres Universidades
 |![](image/udec-150.png)|![](image/uls-150.png)|![](image/unach-150.png)|
 
 
-# Modelo de colaboración
+# Modelo de cooperación
 
 ## Liceos Adheridos
 
@@ -44,7 +50,8 @@ Docentes de tres Universidades
 |7|20210517|Colegio Adventista de Lota|Lota| Instalación| Carlos Villalobos|
 |8|20210519|Colegio Adventista La Serena|La Serena|Instalación|Pablo Muñoz|
 |9|20210528|Liceo Bicentenario Técnico de Rancagua|Rancagua|Instalación|Gustavo Godoy|
-|10|---|---|---|---|---|
+|10|20210702|Liceo Bicentenario Paulo Freire|Quellón|Funcionando|Gustavo Godoy|
+|11|---|---|---|---|---|
 
 ## Universidades
 
